@@ -3,9 +3,9 @@ body {
   padding: 0;
   background: #151515 url("../images/bkg1.jpg") 0 0;
   color: #faf0e6;
-  font: 14px;
+  font: 12px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+/*  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;*/
 }
 
 /* General & 'Reset' Stuff */
